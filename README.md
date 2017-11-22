@@ -23,6 +23,7 @@ See example.py
 # How to connect
 Connect the switch between ground and a io. This is the default way, using ``io_gnd = True`` and ``normally_closed`` assuming your switch opens on click.
 
+```
 --------+
         |
         |
@@ -41,3 +42,4 @@ I       |-+
         |
         |
 --------+
+```
