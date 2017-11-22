@@ -160,7 +160,7 @@ class InterfacePanel:
                 dt_down += 2**32
 
             cb2 = b.release_cb
-            b_release_cb = None
+            b.release_cb = None
             cb2(b.name, dt_down/1e6)
 
     '''
