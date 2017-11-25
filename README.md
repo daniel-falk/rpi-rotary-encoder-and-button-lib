@@ -1,4 +1,5 @@
 ### rpi-rotary-encoder-and-button-lib
+https://github.com/daniel-falk/rpi-rotary-encoder-and-button-lib.git
 
 # Raspberry Pi interface panel object
 Python library to make a simple and effective interface for a control panel built with push buttons and rotary encoders. Designed for the Raspberry Pi and uses pigpio daemon.
